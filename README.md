@@ -7,10 +7,7 @@ Es importante verficar que puedas abrir puertos, en dado caso que no se pueda ti
 
 Ahora para que otra persona que no este necesariamente en tu red pueda ver la interfaz de tu flow5, tendras que poner la siguiente estructura:
 
-http://192.168.100.33:1880/ui/#!/3?socketid=wUhcDR0dpa7h5vbSAAAB  
+http://189.203.145.57:1880/ui/#!/3?socketid=wUhcDR0dpa7h5vbSAAAB  
 
-*Nota: La ip se obtiene con el comando ifconfig*
 
-Podemos observar que el link tiene la estructura indica anteriormente.
-
-[![flow5-2.png](https://i.postimg.cc/Bny4sYff/flow5-2.png)](https://postimg.cc/68dDfhQM)
+*Nota:La ip pública se obtuvo mediante una página web.*
